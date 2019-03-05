@@ -1,4 +1,4 @@
-# **Behavioral Cloning Project-Writeup ** 
+# **Behavioral Cloning Project-Writeup** 
 
 **Behavioral Cloning Project**
 
