@@ -1,8 +1,5 @@
-# **Behavioral Cloning** 
+# **Behavioral Cloning Project-Writeup ** 
 
-## Writeup 
-
----
 **Behavioral Cloning Project**
 
 The goals / steps of this project are the following:
@@ -107,8 +104,8 @@ Here is a visualization of the architecture (note: visualizing the architecture 
 Due to the serious delay of the simulator, it is difficult for me to drive a car to collect data. So I used the data set provided by Udacity.
 To augment the data sat, I flipped images ,this could double the data set. For example, here is an image that has then been flipped:
 
-![alt text][image1]
-![alt text][image2]
+![Normal Image][image1]
+![Flipped Image][image2]
 
 To make most use of the data set, I not only use the center images but also the left and right imags. In order to be able to use the left and right images, correction factors need to add.
 
